@@ -1,4 +1,4 @@
-# Rabbitify 2.0 🐰
+# 🐰Rabbitify 2.0 
 
 ## Features
 Brighten up your day with some cute bunny photos! After you click on the extension,
@@ -15,6 +15,7 @@ menu, find "more tools", then find "extensions".
 ![alt text](https://github.com/emily-gong/Rabbitify_2.0/blob/master/images/find_extension_option.png "Developer mode on")
 
 3. On the extensions page, open developer mode on upper right. 
+
 ![alt text](https://github.com/emily-gong/Rabbitify_2.0/blob/master/images/developer_mode_on.png "Developer mode on")
 
 4. Then, in the new section that 
